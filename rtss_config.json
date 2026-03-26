@@ -1,0 +1,9 @@
+{
+    "position": "Top Left",
+    "fps": true,
+    "ram": false,
+    "cpu": false,
+    "gpu": false,
+    "start_key": "c",
+    "stop_key": "x"
+}
